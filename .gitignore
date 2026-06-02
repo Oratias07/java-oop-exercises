@@ -8,9 +8,6 @@ util/
 # Zip archives
 *.zip
 
-# ID files (student/personal data)
-*21260*
-
 # IDE
 .classpath
 .project

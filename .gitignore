@@ -1,0 +1,27 @@
+# Compiled class files
+bin/
+*.class
+
+# Utility files
+util/
+
+# Zip archives
+*.zip
+
+# ID files (student/personal data)
+212604458*
+*212604458*
+*21260*
+
+# IDE
+.classpath
+.project
+.settings/
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
